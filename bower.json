@@ -1,0 +1,8 @@
+{
+  "name": "listerine",
+  "description": "Additional methods for arrays.",
+  "main": "dist/listerine.js",
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": ""
+}

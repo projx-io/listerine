@@ -1,0 +1,20 @@
+{
+  "name": "listerine",
+  "version": "0.0.1",
+  "description": "Additional methods for arrays.",
+  "main": "dist/listerine.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node --junitreport spec"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "frisby": "^0.8.5",
+    "jasmine": "^2.3.1",
+    "jasmine-node": "^1.14.5"
+  },
+  "dependencies": {
+    "q": "^1.4.1",
+    "unirest": "^0.4.2"
+  }
+}
